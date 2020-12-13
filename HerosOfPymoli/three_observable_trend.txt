@@ -1,0 +1,10 @@
+Three observable trends based on the data.
+
+1. According to the gender demographics, we can see that most of the players are male, which is 84.03%, 
+follow by female with 14.06% and other/non-disclosed with 1.91%
+
+2. According to the purchasing analysis in gender, the largest average value can be found in male, which is $1,967.64, 
+which is followed by female $361.94 and other/non-disclosed $50.19
+
+3. According to the age demographics, the largest percentage of players are in age group 20-24 with 44.79%, 
+the smallest percentage of players can be found in age over 40, which is 2.08%
